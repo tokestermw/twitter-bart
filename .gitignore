@@ -2,3 +2,5 @@ play/
 data/
 *~
 *.pyc
+corpora/
+obj/
